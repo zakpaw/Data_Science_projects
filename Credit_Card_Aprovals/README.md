@@ -1,3 +1,4 @@
+## Credit Card Aprovals classification
 <p><b>Commercial banks</b> receive <u><b><em>a lot</em></b></u> of applications for credit cards. Many of them get rejected for many reasons, like high loan balances, low income levels, or too many inquiries on an individual's credit report, for example. Manually analyzing these applications is mundane, error-prone, and time-consuming (and time is money!). Luckily, this task can be automated with the power of machine learning and pretty much every commercial bank does so nowadays. In this notebook, I will build an automatic credit card approval predictor using machine learning techniques, just like the real banks do.</p>
 <p><img src="https://image.freepik.com/free-photo/hand-showing-credit-card-mock-up_23-2148304916.jpg" alt="Credit card being held in hand width="600" height="300"></p>
 
